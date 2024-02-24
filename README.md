@@ -1,1 +1,1 @@
-# BRACU_CSE428-Image_Processing
+These are my Lab Assignment files with the solution of Brac University's Computer Science & Engineering departmental elective course CSE428 known as Image Processing. These Lab assignments are given during the Spring'2024 Semester as the course work.
